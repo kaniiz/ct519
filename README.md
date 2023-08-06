@@ -9,11 +9,11 @@ topology ของระบบ : ใช้ NodeJs เป็นหลังบ้
 การ deploy ตัว code มาทำงาน 
 1.สร้างเว็บและ sql ให้เรียบร้อย พร้อมทั้ง dockerfile และ docker-compose.yaml 
 2.เตรียม git ให้พร้อม 
-3.สร้าง repositories CT519-AOM 
-4.อัพโหลด 1 ขึ้น repositories CT519-AOM 
+3.สร้าง repositories CT519 
+4.อัพโหลด 1 ขึ้น repositories CT519
 5.ใน Aws install docker engine ให้เรียบร้อย 
 6.ใน Aws install docker compose ให้เรียบร้อย 
 7.ใน command line git clone https://github.com/omletteey/CT519-AOM/new/main?readme=1 
-8.cd CT519-AOM 
+8.cd CT519
 9.chmod -R 777 all file and folder 
 10.docker-compose up --build
