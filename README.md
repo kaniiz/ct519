@@ -13,7 +13,7 @@ topology ของระบบ : ใช้ NodeJs เป็นหลังบ้
 4.อัพโหลด 1 ขึ้น repositories CT519
 5.ใน Aws install docker engine ให้เรียบร้อย 
 6.ใน Aws install docker compose ให้เรียบร้อย 
-7.ใน command line git clone https://github.com/omletteey/CT519-AOM/new/main?readme=1 
+7.ใน command line git clone https://github.com/kaniiz/ct519/edit/main/README.md
 8.cd CT519
 9.chmod -R 777 all file and folder 
 10.docker-compose up --build
